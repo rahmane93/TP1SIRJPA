@@ -1,3 +1,2 @@
-java -cp dependency\hsqldb-2.3.3.jar org.hsqldb.util.DatabaseManager
+java -cp hsqldb-2.3.4.jar org.hsqldb.util.DatabaseManager
 
- 
