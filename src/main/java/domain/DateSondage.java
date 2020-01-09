@@ -2,7 +2,7 @@ package domain;
 
 import java.util.Date;
 
-public class DateReunion {
+public class DateSondage {
 	 private Date date;
 	 private boolean hasPause;
 	 

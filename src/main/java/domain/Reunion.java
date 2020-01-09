@@ -6,7 +6,14 @@ public class Reunion {
    private String titre;
    private String resume;
    private Date dateRetenue;
+   private String lienPad;
    
+	public String getLienPad() {
+	return lienPad;
+}
+public void setLienPad(String lienPad) {
+	this.lienPad = lienPad;
+}
 	public String getTitre() {
 		return titre;
 	}
